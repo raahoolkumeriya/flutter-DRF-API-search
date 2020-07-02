@@ -1,10 +1,23 @@
-# frontend
+# flutter-DRF-API-search
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+### Execution Mode
+Web `flutter run -d chrome` or `flutter run -d web`
+
+Mobile `flutter run`
+
+Web View:
+
+![alt text](https://github.com/raahoolkumeriya/flutter-DRF-API-search/blob/master/screenshots/web.png?raw=true)
+
+Mobile View:
+
+![alt text](https://github.com/raahoolkumeriya/flutter-DRF-API-search/blob/master/screenshots/mobile.png?raw=true)
 
 A few resources to get you started if this is your first Flutter project:
 
