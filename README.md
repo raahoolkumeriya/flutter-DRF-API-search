@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter App tp search the DRF API form Codelocked API 
+
+https://codelocked.herokuapp.com/api/stream/
 
 ### Execution Mode
 Web `flutter run -d chrome` or `flutter run -d web`
